@@ -14,9 +14,9 @@ A Flutter-based mobile application designed to provide users with a seamless rea
 
 **MVVM Architecture:** Adopts the Model-View-ViewModel pattern to separate concerns and enhance code readability.
 
-**Riverpod:** Employs Riverpod for state management, offering a robust and testable solution.
+**Bloc:** Employs Cubit/Bloc for state management, offering a robust and testable solution.
 
-**AutoRoute:** Utilizes AutoRoute for type-safe and declarative routing, simplifying navigation.
+**GoRouter:** Utilizes AutoRoute for type-safe and declarative routing, simplifying navigation.
 
 ## 🔍 Key Features
 
