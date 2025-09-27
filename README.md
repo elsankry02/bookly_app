@@ -16,7 +16,7 @@ A Flutter-based mobile application designed to provide users with a seamless rea
 
 **Bloc:** Employs Cubit/Bloc for state management, offering a robust and testable solution.
 
-**GoRouter:** Utilizes AutoRoute for type-safe and declarative routing, simplifying navigation.
+**GoRouter:** Utilizes GoRouter for type-safe and declarative routing, simplifying navigation.
 
 ## 🔍 Key Features
 
